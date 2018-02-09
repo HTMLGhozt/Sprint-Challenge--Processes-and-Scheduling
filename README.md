@@ -18,6 +18,7 @@ Add your answers to the Answers.md doc.
 2. List all of the possible states a process may be in at any point in time. Briefly explain what each of these states mean.
 
 3. On your machine, how much faster does a `printf` call take compared to how long a `write` system call takes?
+	I'm fairly sure that `test.c` is wrong.
 
 4. `printf` is a C library function that calls the `write` system call under the hood. What are some possible reasons as to why `printf` runs faster than `write`?
 
